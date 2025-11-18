@@ -13,7 +13,7 @@ A clean, minimal, fully-working demonstration of the famous CHSH Bell inequality
 
 The plot shows dramatically how quantum entanglement produces correlations impossible for any local realistic theory.
 
-![Theory](theory/main.tex)
+![Theory](theory/CHSH_inequality.pdf)
 
 
 ## Quick Start
